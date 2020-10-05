@@ -28,7 +28,7 @@
         <option value="">--Please choose an option--</option>
         <option value="refund">I want a refund</option>
         <option value="order-status">Where's my order ?</option>
-        <option value="cancel-order">I want to cancer my order</option>
+        <option value="cancel-order">I want to cancel my order</option>
     </select>
     <div>
         <label for="userMessage">Message :</label>
