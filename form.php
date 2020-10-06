@@ -32,7 +32,7 @@
     </select>
     <div>
         <label for="userMessage">Message :</label>
-        <textarea id="msg" name="userMessage"></textarea>
+        <textarea id="userMessage" name="userMessage"></textarea>
     </div>
     <div class="button">
         <button type="submit">Send</button>
